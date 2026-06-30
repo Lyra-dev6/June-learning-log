@@ -7,3 +7,5 @@
 -**June 10th:** Uploaded my automated file decrypter/encrypter code to a new repository.
 
 -**June 16th:** Haven't been commiting alot but I did edit some README.md's yesterday and 2 days before that, and I won't be commiting for the next week and a half or 2 weeks because of my final exams.
+
+-**June 30th:** I finally finished my finals 3 days ago and have been waiting for my grade. I'll start committing more projects from now.
